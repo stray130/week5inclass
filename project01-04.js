@@ -1,0 +1,19 @@
+/*  JavaScript 7th Edition
+    Chapter 1
+    Hands-On Project 1-4
+
+    Author: skyler
+    Date:   4/14/25
+
+    Filename: project01-04.js
+*/
+
+//define variables for home and work addresses
+const homeStrest="1 Main St"
+const homeCity="Sicilia"
+const homeState="MA"
+const homeCode="02103"
+const workStreet="15 Oak Ln"
+const workCity="Central City"
+const workState= "MA"
+const workCode="02104"
